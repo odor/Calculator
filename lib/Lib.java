@@ -46,23 +46,18 @@ public class Lib {
                      "\t%d\t%s\t\t%d\t%s\n" +
                      "________________________________________\r",
 
-                     9, "Sin",  13, "lol",
-                    10, "Cos",  14, "6",
-                    11, "Tan",  15, "7",
-                    12, "...",  16, "16");
+                     9, "Sin",  13, "...",
+                    10, "Cos",  14, "...",
+                    11, "Tan",  15, "...",
+                    12, "...",  16, "...");
             menu(defined());
         }
 
     }
 
-//    private double arithmetic() {
-//        double x = xyz("x");
-//        double y = xyz("y");
-//        System.out.print(x + " + " + y + "= ");
-//        return x + y;
-//    }
 
 
+//исправить повтряющийся код
     public void menu(int action) {
         //double out = 0;
         switch (action) {
