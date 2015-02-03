@@ -1,6 +1,6 @@
 import lib.Lib;
 
-// для форматирования либо java.util.Formatter, либо java.text.*Format
+// 1. для форматирования либо java.util.Formatter, либо java.text.*Format
 
 public class Main {
     public static void main(String args[]) throws Exception{
